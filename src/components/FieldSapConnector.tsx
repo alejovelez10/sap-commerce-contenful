@@ -8,7 +8,6 @@ import { ProductPreviews } from './ProductPreviews/ProductPreviews';
 import { CategoryPreviews } from './CategoryPreviews/CategoryPreviews';
 import { fetchProductPreviews } from '../api/fetchProductPreviews';
 import { fetchCategoryPreviews } from '../api/fetchCategoryPreviews';
-import logo from '../logo.png';
 import { AppParameters, SAPParameters } from '../interfaces';
 
 interface Props {
