@@ -165,7 +165,6 @@ export default class FieldSapConnector extends React.Component<Props, State> {
           </div>
         )}
         <div className={styles.container}>
-          <img src={logo} alt="Logo" className={styles.logo} />
           <Button
             icon="ShoppingCart"
             buttonType="muted"
